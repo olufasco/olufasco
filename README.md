@@ -1,12 +1,7 @@
-Hi 👋 My name is Oluwasegun Adedeji
-==================================
-
 ### 🛠️ Tech Stack & Skills
 
 * **Backend Development:** `.NET Core` • `EF Core` • `SQL Server`
 * **Frontend Engineering:** `React.js` • `TypeScript` • `JavaScript`
 * **DevOps & Automation:** `GitHub Actions` • `CI/CD Pipelines`
 
-### 📊 GitHub Activity
-* 🖥️ **See my latest work:** Check out the repositories tab to view my active .NET and React applications!
-
+[![Fasco's GitHub stats](https://github-stats-extended.vercel.app/api/?username=olufasco&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Fasco's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)](https://github-stats-extended.vercel.app/api/?username=olufasco&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Fasco's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)
